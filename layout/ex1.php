@@ -20,22 +20,22 @@
 
     <h3> 3.5 Table & Variable </h3>
     <?php
-    $g1 = 5;
-    $g2 = 4;
-    $g3 = 5;
+    $g1 =  5;
+    $g2 =  4;
+    $g3 =  5;
     echo "
     <table>
     <tr>
     <th> S.N </th><th> Name <th><th> Grade </th>
     </tr>
     <tr>
-    <td> 1 </td><td> pekka </td><td. $g1 </td>
+    <td> 1 </td><td> pekka </td><td> $g1 </td>
     </tr>
     <tr>
-    <td> 2 </td><td> johanna </td><td. $g2 </td>
+    <td> 2 </td><td> johanna </td><td> $g2 </td>
     </tr>
     <tr>
-    <td> 3 </td><td> john </td><td. $g3 </td>
+    <td> 3 </td><td> john </td><td> $g3 </td>
     </tr>
     </table>
     ";
