@@ -14,7 +14,7 @@
 
     <h3> 3.4 variable in php </h3>
     <?php
-    $title = "PHP is interesting";
+    $title1 ="PHP is interesting";
     echo "<h1> " . $title1 . "</h1>";
     ?>
 
@@ -40,8 +40,8 @@
     </table>
     ";
     ?>
-    <h3> 4 screenshot of the development environment </h3>
-    <img src="2.png" alt="">
+    <h3 style="color: darkblue; font-size: 18px;"> 4 screenshot of the development environment </h3>
+    <img style="width: 700px; height: 400px;"src="2.png" alt="">
 
 
 
