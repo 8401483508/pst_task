@@ -75,7 +75,7 @@
                 >Contact</a
               >
               <li class="nav-item">
-              <a class="nav-link" style="color: #fff" href="#ex2.php">Exercise 1</a>
+              <a class="nav-link" style="color: #fff" href="#ex1.php">Exercise 1</a>
             </li>
           </ul>
         </div>
