@@ -74,8 +74,6 @@
               <a class="nav-link" style="color: #fff" href="#contact"
                 >Contact</a
               >
-              <li class="nav-item">
-              <a class="nav-link" style="color: #fff" href="#ex1.php">Exercise 1</a>
             </li>
           </ul>
         </div>
@@ -84,3 +82,41 @@
     <header class="masthead" id="home">
       <div class="container px-4 px-lg-5 h-100"></div>
     </header>
+    <section class="page-section" id="about">
+      <div class="container px-4 px-lg-5">
+        <h2 class="text-center mt-0">Founding Real Madrid</h2>
+        <hr class="divider" />
+        <div class="row gx-4 gx-lg-5">
+          <div class="col-lg-8 col-md-8 text-center">
+            <div class="mt-5" style="text-align: justify">
+              <p class="text-muted mb-0">
+                Real Madrid Club de Fútbol, commonly referred to as Real Madrid
+                or simply as Real is a professional football club based in
+                Madrid, Spain.
+              </p>
+              <p class="text-muted mb-0">
+               <br> Real Madrid officially adopted its name in 1920, and has since
+                played its home matches in the Santiago Bernabéu Stadium.
+              </p>
+              <p class="text-muted mb-0">
+                <br> Real Madrid has been one of the most successful clubs in Europe
+                and in the world, having won a record 34 La Liga titles, 19 Copa
+                del Rey, 13 European Cup/UEFA Champions League titles, and 2
+                UEFA Cups.
+              </p>
+              <p class="text-muted mb-0">
+               <br> The club has also won several other trophies, including 4 UEFA
+                Super Cups and 7 FIFA Club World Cups.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 text-center">
+            <div class="mt-5">
+              <p class="text-muted mb-0">
+                <img src="assets/logo.png" style="width: 300px" />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

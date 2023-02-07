@@ -1,1 +1,3 @@
-something
+<?php
+echo "Hello World";
+?>

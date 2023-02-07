@@ -8,6 +8,11 @@
   <div class="footer-copyright text-center py-3">© 2020 Copyright
   </div>
   <!-- Copyright -->
+  
+  <?php
+
+echo "\n lastmodified: " .  date ("l-d-F-Y-H:ia.",getlastmod());
+?>
 
 </footer></div>
 </div>
