@@ -5,14 +5,16 @@
 <footer style="background-color: rgb(65, 7, 109); color: white;">
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright
-  </div>
-  <!-- Copyright -->
-  
+  <div class="footer-copyright text-center py-3">© 2020 Copyright<br>
   <?php
 
 echo "\n lastmodified: " .  date ("l-d-F-Y-H:ia.",getlastmod());
 ?>
+</div>
+
+  <!-- Copyright -->
+  
+  
 
 </footer></div>
 </div>

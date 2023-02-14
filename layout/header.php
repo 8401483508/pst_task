@@ -57,7 +57,10 @@
 </div> 
   <div class="row" style="margin-top: 10px; margin-bottom: 10px; margin-right: 5px;">
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
-      <h3>List of Tasks</h3>
-      some thing here
+      <h3>Crud App</h3>
+      <a class="nav-link" href="create.php">create page</a>
+      <a class="nav-link" href="read.php">read</a>
+
+      
     </div>
     <div class="col-sm-9">
